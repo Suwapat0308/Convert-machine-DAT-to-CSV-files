@@ -8,3 +8,4 @@ Visual Studio Code, also commonly referred to as VS Code, is a source-code edito
 [Visual Studio Code](https://code.visualstudio.com/) for download
 
 * Jupyter notebook (optional)
+* Import system and module
