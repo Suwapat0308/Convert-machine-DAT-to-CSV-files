@@ -10,10 +10,10 @@ Visual Studio Code, also commonly referred to as VS Code, is a source-code edito
 * Jupyter notebook (optional)
 * Import library
 
-import subprocess
-import re
-import os
-import sys
-import time
-import concurrent.futures
-import shutil
+  * import subprocess
+  * import re
+  * import os
+  * import sys
+  * import time
+  * import concurrent.futures
+  * import shutil
